@@ -1,0 +1,17 @@
+# Ignore all log files
+*.log
+
+# Ignore all .tmp files
+*.tmp
+
+# Ignore all .bak files
+*.bak
+
+# Ignore all files starting with a dot (.)
+*.*
+
+# Ignore all files in the build directory
+build/
+
+# Ignore all files in the node_modules directory
+node_modules/
